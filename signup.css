@@ -1,0 +1,9 @@
+body {
+    background: url("back_signup2.jpg");
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+h2 {
+    color: rgb(253, 253, 253);
+}

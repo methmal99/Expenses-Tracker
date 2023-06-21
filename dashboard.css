@@ -1,0 +1,13 @@
+body {
+    background: url("dashboard_back.jpg");
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+h1 {
+    color: aqua;
+}
+
+.row {
+    background: rgba(117, 115, 115, 0.6);
+}

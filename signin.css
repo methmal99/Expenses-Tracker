@@ -1,0 +1,9 @@
+body {
+    background: url("background.jpg");
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+h2 {
+    color: aliceblue;
+}
